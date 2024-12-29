@@ -59,22 +59,14 @@ With over **8 years of experience** as a Software Engineer, I'm on a mission to 
 <img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/>
 
 ### Version Control:
-<img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/>
+<img height="40" src="https://skillicons.dev/icons?i=bitbucket, git,github,gitlab"/>
 
 ### IDEs:
-<img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/>
+<img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,androidstudio"/>
 
 ### Other Tools:
 <img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/>
 
 ### Operating Systems:
-<img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali,macos"/>
+<img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali"/>
 
----
-
-## 📫 How to Reach Me:
-Feel free to reach out to me through my **[LinkedIn](https://www.linkedin.com/in/renato-r-611795133/)** or **[Twitter](https://twitter.com/RenatoResabala)**.
-
----
-
-Made with ❤️ by [Renato Resabala](https://github.com/RResabala2015)
