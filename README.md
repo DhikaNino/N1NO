@@ -1,4 +1,4 @@
-# Hello 🌎, I'm **Renato Resabala**
+# Hello, I'm Andhika Rikio**
 
 With over **8 years of experience** as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I specialize in both **frontend** and **backend** development, enabling me to bring my expertise to both revolutionary startups and large-scale enterprise projects. I’m passionate about writing clean, maintainable code and design with the user in mind. I thrive in environments that embrace innovation and continuous professional growth. Let’s make technology shine! 🚀
 
