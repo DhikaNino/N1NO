@@ -10,10 +10,6 @@ With over **8 years of experience** as a Software Engineer, I'm on a mission to 
   <a href="https://www.linkedin.com/in/renato-r-611795133/" target="_blank"><i class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="40"></i></a>
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" />
-</p>
-
 ---
 
 ## Activity
@@ -47,8 +43,8 @@ With over **8 years of experience** as a Software Engineer, I'm on a mission to 
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Backend**             | ![PHP](https://skillicons.dev/icons?i=php) ![Java](https://skillicons.dev/icons?i=java) ![C#](https://skillicons.dev/icons?i=cs) ![Python](https://skillicons.dev/icons?i=python) ![Laravel](https://skillicons.dev/icons?i=laravel) ![Spring](https://skillicons.dev/icons?i=spring) ![Node.js](https://skillicons.dev/icons?i=nodejs) |
 | **Frontend**            | ![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) |
-| **Database**            | ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) |
-| **DevOps**              | ![Docker](https://skillicons.dev/icons?i=docker) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) |
+| **Database**            | ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)|
+| **DevOps**              | ![Docker](https://skillicons.dev/icons?i=docker) ![Google Cloud Platform](https://skillicons.dev/icons?i=gcp) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) |
 | **Automated Testing**   | ![PyTest](https://skillicons.dev/icons?i=postman) |
 | **Version Control**     | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![GitLab](https://skillicons.dev/icons?i=gitlab) ![Bitbucket](https://skillicons.dev/icons?i=bitbucket) |
 | **IDEs**                | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![Sublime Text](https://skillicons.dev/icons?i=sublime) ![Android Studio](https://skillicons.dev/icons?i=androidstudio) |
