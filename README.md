@@ -140,6 +140,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dhikanino/dhikanino/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/dhikanino/N1NO/blob/output/snake.svg)
 
 ###
