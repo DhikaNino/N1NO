@@ -4,21 +4,6 @@ With over **8 years of experience** as a Software Engineer, I'm on a mission to 
 
 ---
 
-## 🔭 What I’m Currently Working On:
-- **Upgrading Java applications** from JDK 8 to JDK 21.
-- **Learning**: JUnit, Jakarta, Spring Security, Spring Cloud.
-
-## 💬 Ask Me About:
-- **Frontend**: HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, TypeScript, React, Vue, Vite, Material-UI, DaisyUI, Material Tailwind, React JS, Next JS
-- **Backend**: PHP, Laravel, C#, C++, Java, Node.js, Python, Dart, Kotlin, Lua
-- **DevOps**: Docker, Kubernetes, Google Cloud, Terraform, Jenkins, CI/CD
-- **Other**: TDD, DDD, Scrum, GCP, GKE, Git, GitHub, GitLab, Bitbucket
-
-## ⚡ Fun Fact:
-I look like a **hobbit**.
-
----
-
 ### Connect with me:
 <p align="left">
   <a href="https://twitter.com/RenatoResabala" target="_blank"><i class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="40"></i></a>
