@@ -41,29 +41,15 @@ With over **8 years of experience** as a Software Engineer, I'm on a mission to 
 
 ---
 
-## Languages & Tools:
-------
-### Backend:
-<img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/>
+## Languages & Tools
 
-### Frontend:
-<img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/>
-
-### Database:
-<img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-
-### DevOps:
-<img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlab"/>
-
-### Automated Testing:
-<img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/>
-
-### Version Control:
-<img height="40" src="https://skillicons.dev/icons?i=bitbucket, git,github,gitlab"/>
-
-### IDEs:
-<img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,androidstudio"/>
-
-### Operating Systems:
-<img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali"/>
-------
+| **Category**            | **Tools**                                                                                                                                       |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Backend**             | ![PHP](https://skillicons.dev/icons?i=php) ![Java](https://skillicons.dev/icons?i=java) ![C#](https://skillicons.dev/icons?i=cs) ![Python](https://skillicons.dev/icons?i=python) ![Laravel](https://skillicons.dev/icons?i=laravel) ![Spring](https://skillicons.dev/icons?i=spring) ![Node.js](https://skillicons.dev/icons?i=nodejs) |
+| **Frontend**            | ![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) |
+| **Database**            | ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) |
+| **DevOps**              | ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![GCP](https://skillicons.dev/icons?i=gcp) ![Terraform](https://skillicons.dev/icons?i=terraform) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) |
+| **Automated Testing**   | ![Selenium](https://skillicons.dev/icons?i=selenium) ![Jest](https://skillicons.dev/icons?i=jest) ![PyTest](https://skillicons.dev/icons?i=pytest) ![PHPUnit](https://skillicons.dev/icons?i=phpunit) |
+| **Version Control**     | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![GitLab](https://skillicons.dev/icons?i=gitlab) ![Bitbucket](https://skillicons.dev/icons?i=bitbucket) |
+| **IDEs**                | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![Sublime Text](https://skillicons.dev/icons?i=sublime) ![Android Studio](https://skillicons.dev/icons?i=androidstudio) |
+| **Operating Systems**   | ![Windows](https://skillicons.dev/icons?i=windows) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Debian](https://skillicons.dev/icons?i=debian) ![Kali Linux](https://skillicons.dev/icons?i=kali) |
