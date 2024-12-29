@@ -42,7 +42,7 @@ With over **8 years of experience** as a Software Engineer, I'm on a mission to 
 ---
 
 ## Languages & Tools:
-
+------
 ### Backend:
 <img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/>
 
@@ -66,4 +66,4 @@ With over **8 years of experience** as a Software Engineer, I'm on a mission to 
 
 ### Operating Systems:
 <img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali"/>
-
+------
