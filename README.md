@@ -50,7 +50,7 @@ With over **8 years of experience** as a Software Engineer, I'm on a mission to 
 <img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/>
 
 ### Database:
-<img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/>
+<img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 
 ### DevOps:
 <img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlab"/>
@@ -63,9 +63,6 @@ With over **8 years of experience** as a Software Engineer, I'm on a mission to 
 
 ### IDEs:
 <img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,androidstudio"/>
-
-### Other Tools:
-<img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/>
 
 ### Operating Systems:
 <img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali"/>
