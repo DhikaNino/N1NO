@@ -68,7 +68,7 @@ With over **8 years of experience** as a Software Engineer, I'm on a mission to 
 <img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/>
 
 ### Operating Systems:
-<img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/>
+<img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali"/>
 
 ---
 
