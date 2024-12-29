@@ -39,9 +39,9 @@ I look like a **hobbit**.
 
 ## GitHub Stats:
 <div align="center">
-  <a href="https://github.com/RResabala2015">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+  <a href="https://github.com/DhikaNino">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DhikaNino&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DhikaNino"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhikaNino&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DhikaNino"/>
   </a>
 </div>
 
@@ -50,7 +50,7 @@ I look like a **hobbit**.
 ## GitHub Streak:
 <p align="center">
   <a href="https://github.com/RResabala2015">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RResabala2015&&theme=tokyonight" alt="RResabala2015" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhikaNino&&theme=tokyonight" alt="DhikaNino" />
   </a>
 </p>
 
