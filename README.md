@@ -1,4 +1,4 @@
-<h2 align="left">Hai! Saya Andhika Rikio</h2>
+<h2 align="left">Hai Saya Andhika Rikio!</h2>
 
 ###
 
