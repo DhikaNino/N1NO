@@ -1,5 +1,10 @@
-<h2 align="left">Halo, Saya Andhika Rikio!</h2>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Halo%2C+Saya+Andhika+Rikio!;Full-Stack+Web+Developer;FiveM+RP+Server+Developer;Software+Engineering+Student" alt="Typing SVG" />
+</a>
 
+<img src="https://komarev.com/ghpvc/?username=dhikanino&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views" />
+
+</div>
 ###
 
 <div align="center">
